@@ -10,7 +10,7 @@ Worked for [Labirint](http://labirint.ru/) and [Working station](http://coworkst
 #### December, 2015 - November, 2016: [bintime.com](http://bintime.com/).
 Projects: [icecat.biz](http://icecat.biz/) and [centralpoint.nl](http://centralpoint.nl/).
 #### July, 2015 - September, 2015: [biz-xray.com](https://www.linkedin.com/company/biz-xray/about/).
-&nbsp;&nbsp;&nbsp;
+&nbsp;
 ## Open-source
 
 ### Created
@@ -21,11 +21,11 @@ Projects: [icecat.biz](http://icecat.biz/) and [centralpoint.nl](http://centralp
 - [initium](https://github.com/straykov/initium). It's Gulp based skeleton, for quick start your markup.
 - [YoptaScript](https://github.com/samgozman/YoptaScript). Скриптовый язык программирования для гопников и реальных пацанов.
 - [browserslist](https://github.com/ai/browserslist). Get browsers versions that match given criteria like in Autoprefixer.
-- [css-vendor](https://github.com/cssinjs/css-vendor). CSS vendor prefix detection and property feature testing.
-&nbsp;&nbsp;&nbsp;
+- [css-vendor](https://github.com/cssinjs/css-vendor). CSS vendor prefix detection and property feature testing.\n
+&nbsp;
 ## Other
 Also, I'm a photographer. Examples of my work, you can see by visit this [link](https://500px.com/AleshaOleg).
 [Here](https://www.goodreads.com/user/show/44506883-oleh-aloshkin) you can find books, which I read.
-&nbsp;&nbsp;&nbsp;
+&nbsp;
 ## Contact me
 To [hire](https://www.upwork.com/freelancers/~016cb6543c31217bc3) me, please drop email to [olegaleshkin@gmail.com](mailto:olegaleshkin@gmail.com).
