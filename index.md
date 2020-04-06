@@ -21,7 +21,8 @@ Projects: [icecat.biz](http://icecat.biz/) and [centralpoint.nl](http://centralp
 - [initium](https://github.com/straykov/initium). It's Gulp based skeleton, for quick start your markup.
 - [YoptaScript](https://github.com/samgozman/YoptaScript). Скриптовый язык программирования для гопников и реальных пацанов.
 - [browserslist](https://github.com/ai/browserslist). Get browsers versions that match given criteria like in Autoprefixer.
-- [css-vendor](https://github.com/cssinjs/css-vendor). CSS vendor prefix detection and property feature testing.\n
+- [css-vendor](https://github.com/cssinjs/css-vendor). CSS vendor prefix detection and property feature testing.
+<!-- End of open-source list -->
 &nbsp;
 ## Other
 Also, I'm a photographer. Examples of my work, you can see by visit this [link](https://500px.com/AleshaOleg).
