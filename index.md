@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+## Experience
 
-You can use the [editor on GitHub](https://github.com/AleshaOleg/aleshaoleg.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### December, 2017 - Present: Grape.
+### July, 2017 - December, 2017: 1+1 media.
+Smart TV app for 1plus1.video.
+### January, 2017 - March, 2017: Web-Pal.
+Outsourcing employee.
+### September, 2016 - December, 2016: codecode.ru.
+Worked for Labirint and Working station.
+### December, 2015 - November, 2016: bintime.com.
+Projects: icecat.biz and centralpoint.nl.
+### July, 2015 - September, 2015: biz-xray.com.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Open-source
 
-### Markdown
+### Created
+- Holy Grail Markup “Hello world” markup using different CSS methodologies: OOCSS, SMACSS, Atomic & Organic, BEM and CSS Modules.
+- postcss-sass A Sass parser for PostCSS, using gonzales-pe.
+### Contributed to
+- initium. It's Gulp based skeleton, for quick start your markup.
+- YoptaScript. Скриптовый язык программирования для гопников и реальных пацанов.
+- browserslist. Get browsers versions that match given criteria like in Autoprefixer.
+- css-vendor. CSS vendor prefix detection and property feature testing.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Other
+Also, I'm a photographer. Examples of my work, you can see by visit this [link](https://500px.com/AleshaOleg).
+[Here](https://www.goodreads.com/user/show/44506883-oleh-aloshkin) you can find books, which I read.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AleshaOleg/aleshaoleg.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Contact me
+To [hire](https://www.upwork.com/freelancers/~016cb6543c31217bc3) me, please drop email to [olegaleshkin@gmail.com](mailto:olegaleshkin@gmail.com).
