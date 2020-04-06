@@ -1,15 +1,15 @@
 ## Experience
 
-### December, 2017 - Present: Grape.
-### July, 2017 - December, 2017: 1+1 media.
+#### December, 2017 - Present: Grape.
+#### July, 2017 - December, 2017: 1+1 media.
 Smart TV app for 1plus1.video.
-### January, 2017 - March, 2017: Web-Pal.
+#### January, 2017 - March, 2017: Web-Pal.
 Outsourcing employee.
-### September, 2016 - December, 2016: codecode.ru.
+#### September, 2016 - December, 2016: codecode.ru.
 Worked for Labirint and Working station.
-### December, 2015 - November, 2016: bintime.com.
+#### December, 2015 - November, 2016: bintime.com.
 Projects: icecat.biz and centralpoint.nl.
-### July, 2015 - September, 2015: biz-xray.com.
+#### July, 2015 - September, 2015: biz-xray.com.
 
 ## Open-source
 
