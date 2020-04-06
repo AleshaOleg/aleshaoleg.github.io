@@ -1,3 +1,6 @@
+Front-end developer  
+based in Vienna, Austria
+
 ## Experience
 
 #### December, 2017 - Present: [grape.io](https://grape.io).
