@@ -1,0 +1,736 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>CSS Layout Grids</title>
+	<meta charset="utf-8">
+	<meta http-equiv="x-ua-compatible" content="ie=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="shower/themes/ribbon/styles/screen-16x10.css">
+</head>
+<body class="shower list">
+	<header class="caption">
+		<h1>CSS Layout Grids</h1>
+		<p>Олег Алёшкин</p>
+	</header>
+	<section class="slide" id="cover">
+    <h2>CSS Layout Grids</h2>
+		<style>
+			#cover h2 {
+        transform: translateY(-50%);
+        position: absolute;
+        text-align: center;
+        width: 100%;
+        left: 0;
+        top: 50%;
+        font-size: 120px;
+      }
+		</style>
+	</section>
+	<section class="slide" id="check">
+    <h2>
+      <img src="pictures/check.svg" />
+      6.28%
+    </h2>
+    <style>
+      #check h2 {
+        transform: translateY(-50%);
+        position: absolute;
+        top: 50%;
+        font-size: 150px;
+        text-align: center;
+        width: 100%;
+        left: 0;
+      }
+      #check img {
+        width: 115px;
+        vertical-align: -4%;
+      }
+    </style>
+	</section>
+  <section class="slide" id="browsers">
+    <img src="pictures/chrome.png" />
+    <img src="pictures/firefox.jpg" />
+    <style>
+      #browsers img {
+        margin: 50px;
+      }
+    </style>
+  </section>
+  <section class="slide">
+    <h2>Макет</h2>
+    <p class="double">
+      <pre>
+    <code>&lt;div class="<mark>grid</mark>"&gt;</code>
+        <code>&nbsp;&nbsp;&lt;div&gt;One&lt;/div&gt;</code>
+        <code>&nbsp;&nbsp;&lt;div&gt;Two&lt;/div&gt;</code>
+        <code>&nbsp;&nbsp;&lt;div&gt;Three&lt;/div&gt;</code>
+        <code>&nbsp;&nbsp;&lt;div&gt;Four&lt;/div&gt;</code>
+        <code>&nbsp;&nbsp;&lt;div&gt;Five&lt;/div&gt;</code>
+        <code>&lt;/div&gt;</code>
+      </pre>
+    </p>
+  </section>
+  <section class="slide" id="grid">
+    <h2>
+      <img src="pictures/grid.png" alt="">
+    </h2>
+    <style>
+      #grid img {
+        width: 80%;
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+        left: 10%;
+      }
+    </style>
+  </section>
+  <section class="slide">
+    <h2>Включаем гриды</h2>
+    <pre>
+      <code>.grid {</code>
+      <code>&nbsp;&nbsp;display: <mark class="important">grid</mark>;</code>
+      <code>}</code>
+    </pre>
+  </section>
+  <section class="slide">
+    <img src="pictures/magic.jpg" alt="" class="cover">
+  </section>
+  <section class="slide" id="grid-two">
+    <h2>
+      <img src="pictures/grid.png" alt="">
+    </h2>
+    <style>
+      #grid-two img {
+        width: 80%;
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+        left: 10%;
+      }
+    </style>
+  </section>
+  <section class="slide">
+    <h2>Теперь точно включаем</h2>
+    <pre>
+      <code>.grid {</code>
+      <code>&nbsp;&nbsp;display: <mark>grid</mark>;</code>
+      <code>&nbsp;&nbsp;<mark>grid-template-columns</mark>: 200px 200px 200px;</code>
+      <code>}</code>
+    </pre>
+  </section>
+  <section class="slide" id="grid-template-columns">
+    <img src="pictures/grid-template-columns.png" alt="">
+    <style>
+      #grid-template-columns img {
+        width: 80%;
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+        left: 10%;
+      }
+    </style>
+  </section>
+  <section class="slide">
+    <h2>А с строками так</h2>
+    <pre>
+      <code>.grid {</code>
+      <code>&nbsp;&nbsp;display: grid;</code>
+      <code>&nbsp;&nbsp;<mark>grid-template-rows</mark>: 75px 75px;</code>
+      <code>}</code>
+    </pre>
+  </section>
+  <section class="slide" id="grid-template-rows">
+    <img src="pictures/grid-template-rows.png" alt="">
+    <style>
+      #grid-template-rows img {
+        padding-top: 30px;
+        width: 80%;
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+        left: 10%;
+      }
+    </style>
+  </section>
+  <section class="slide">
+    <h2>Объеденяем</h2>
+    <pre>
+      <code>.grid {</code>
+      <code>&nbsp;&nbsp;display: grid;</code>
+      <code>&nbsp;&nbsp;grid-template-columns: <mark class="important">1fr 1fr 1fr</mark>;</code>
+      <code>&nbsp;&nbsp;grid-template-rows: 75px 75px;</code>
+      <code>}</code>
+    </pre>
+  </section>
+  <section class="slide" id="grid-template-columns-rows">
+    <img src="pictures/grid-template-columns-rows.png" alt="">
+    <style>
+      #grid-template-columns-rows img {
+        padding-top: 30px;
+        width: 80%;
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+        left: 10%;
+      }
+    </style>
+  </section>
+  <section class="slide" id="thinker">
+    <img src="pictures/thinker.jpg" class="cover" alt="">
+  </section>
+  <section class="slide">
+    <h2>Для всех сразу</h2>
+    <pre>
+      <code>.grid {</code>
+      <code>&nbsp;&nbsp;display: grid;</code>
+      <code>&nbsp;&nbsp;grid-template-columns: <mark class="important">repeat(3, 1fr)</mark>;</code>
+      <code>&nbsp;&nbsp;grid-auto-rows: 75px;</code>
+      <code>}</code>
+    </pre>
+  </section>
+  <section class="slide" id="grid-auto-rows">
+    <img src="pictures/grid-auto-rows.png" alt="">
+    <style>
+      #grid-auto-rows img {
+        padding-top: 30px;
+        width: 80%;
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+        left: 10%;
+      }
+    </style>
+  </section>
+  <section class="slide" id="everything">
+    <h2>И это все?</h2>
+    <style>
+      #everything h2 {
+        transform: translateY(-50%);
+        position: absolute;
+        top: 50%;
+        left: 0;
+        font-size: 120px;
+        text-align: center;
+        width: 100%;
+      }
+    </style>
+  </section>
+  <section class="slide" id="no">
+    <h2>Нет. Идем дальше</h2>
+    <style>
+      #no h2 {
+        transform: translateY(-50%);
+        position: absolute;
+        top: 50%;
+        left: 0;
+        font-size: 120px;
+        text-align: center;
+        width: 100%;
+      }
+    </style>
+  </section>
+  <section class="slide" id="grid-lines">
+    <img src="pictures/grid-lines.png" alt="">
+    <style>
+      #grid-lines img {
+        padding-top: 30px;
+        width: 80%;
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+        left: 10%;
+      }
+    </style>
+  </section>
+  <section class="slide">
+    <h2>Немного усложняем макет</h2>
+    <p class="double">
+    <pre>
+        <code>&lt;div class="grid"&gt;</code>
+        <code>&nbsp;&nbsp;&lt;div class="<mark>box1</mark>"&gt;One&lt;/div&gt;</code>
+        <code>&nbsp;&nbsp;&lt;div class="<mark>box2</mark>"&gt;Two&lt;/div&gt;</code>
+        <code>&nbsp;&nbsp;&lt;div class="<mark>box3</mark>"&gt;Three&lt;/div&gt;</code>
+        <code>&nbsp;&nbsp;&lt;div class="<mark>box4</mark>"&gt;Four&lt;/div&gt;</code>
+        <code>&nbsp;&nbsp;&lt;div class="<mark>box5</mark>"&gt;Five&lt;/div&gt;</code>
+        <code>&lt;/div&gt;</code>
+      </pre>
+    </p>
+  </section>
+  <section class="slide">
+    <h2>Вот тут уже непонятно</h2>
+    <pre>
+      <code>.grid {</code>
+      <code>&nbsp;&nbsp;<mark>grid-auto-rows</mark>: 100px;</code>
+      <code>}</code>
+      <code>.box1 {</code>
+      <code>&nbsp;&nbsp;<mark>grid-column-start</mark>: 1;</code>
+      <code>&nbsp;&nbsp;<mark>grid-row-start</mark>: 3;</code>
+      <code>&nbsp;&nbsp;<mark>grid-row-end</mark>: 5;</code>
+      <code>}</code>
+    </pre>
+  </section>
+  <section class="slide" id="grid-position">
+    <img src="pictures/grid-position.png" alt="">
+    <style>
+      #grid-position img {
+        padding-top: 30px;
+        width: 80%;
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+        left: 10%;
+      }
+    </style>
+  </section>
+  <section class="slide" id="easier">
+    <h2>Сложно?</h2>
+    <style>
+      #easier h2 {
+        transform: translateY(-50%);
+        position: absolute;
+        top: 50%;
+        left: 0;
+        font-size: 120px;
+        text-align: center;
+        width: 100%;
+      }
+    </style>
+  </section>
+  <section class="slide">
+    <h2>Немного проще</h2>
+    <pre>
+      <code>.box1 {</code>
+      <code>&nbsp;&nbsp;<mark>grid-column</mark>: 1;</code>
+      <code>&nbsp;&nbsp;<mark>grid-row</mark>: <mark class="important">3 / 5</mark>;</code>
+      <code>}</code>
+    </pre>
+  </section>
+  <section class="slide" id="easiest">
+    <h2>Еще немного проще</h2>
+    <style>
+      #easiest h2 {
+        transform: translateY(-50%);
+        position: absolute;
+        top: 50%;
+        left: 0;
+        font-size: 120px;
+        text-align: center;
+        width: 100%;
+      }
+    </style>
+  </section>
+  <section class="slide">
+    <pre>
+      <code>.box1 {</code>
+      <code>&nbsp;&nbsp;grid-column: 1;</code>
+      <code>&nbsp;&nbsp;grid-row: 3 / <mark class="important">span</mark> 2;</code>
+      <code>}</code>
+    </pre>
+  </section>
+  <section class="slide" id="single-line">
+    <h2>В одну строку</h2>
+    <style>
+      #single-line h2 {
+        transform: translateY(-50%);
+        position: absolute;
+        top: 50%;
+        left: 0;
+        font-size: 120px;
+        text-align: center;
+        width: 100%;
+      }
+    </style>
+  </section>
+  <section class="slide">
+    <pre>
+      <code>.box1 {</code>
+      <code>&nbsp;&nbsp;<mark>grid-area</mark>: <mark class="important">3 / 1 / 5 / 2</mark>;</code>
+      <code>}</code>
+    </pre>
+  </section>
+  <section class="slide" id="naming-lines">
+    <h2>И еще, так можно</h2>
+    <style>
+      #naming-lines h2 {
+        transform: translateY(-50%);
+        position: absolute;
+        top: 50%;
+        left: 0;
+        font-size: 120px;
+        text-align: center;
+        width: 100%;
+      }
+    </style>
+  </section>
+  <section class="slide">
+    <pre>
+      <code>.grid {</code>
+      <code>&nbsp;&nbsp;grid-template-columns:
+        <mark class="important">[main-start] 1fr [content-start] 1fr</mark>
+        <mark class="important">[content-end] 1fr [main-end]</mark>;</code>
+      <code>&nbsp;&nbsp;grid-template-rows:
+        <mark class="important">[main-start] 50px [content-start]</mark>
+        <mark class="important">50px [content-end] 100px [main-end]</mark>;</code>
+      <code>}</code>
+    </pre>
+  </section>
+  <section class="slide">
+    <pre>
+      <code>.box1 {</code>
+      <code>&nbsp;&nbsp;<mark>grid-column-start</mark>: <mark class="important">main-start</mark></code>
+      <code>&nbsp;&nbsp;<mark>grid-row-start</mark>: <mark class="important">main-end</mark></code>
+      <code>&nbsp;&nbsp;<mark>grid-row-end</mark>: <mark class="important">content-end</mark></code>
+      <code>}</code>
+    </pre>
+  </section>
+  <section class="slide" id="grid-position-two">
+    <img src="pictures/grid-position.png" alt="">
+    <style>
+      #grid-position-two img {
+        padding-top: 30px;
+        width: 80%;
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+        left: 10%;
+      }
+    </style>
+  </section>
+  <section class="slide" id="paddings">
+    <h2>Отступы</h2>
+    <style>
+      #paddings h2 {
+        transform: translateY(-50%);
+        position: absolute;
+        top: 50%;
+        left: 0;
+        font-size: 120px;
+        text-align: center;
+        width: 100%;
+      }
+    </style>
+  </section>
+  <section>
+    <section class="slide">
+      <h2>Отступы</h2>
+      <ol>
+        <li><code>grid-column-gap</code></li>
+        <li class="next"><code>grid-row-gap</code></li>
+        <li class="next"><code>grid-gap</code></li>
+      </ol>
+    </section>
+  </section>
+  <section class="slide">
+    <h2>Отступ для колонок</h2>
+    <pre>
+      <code>.grid {</code>
+      <code>&nbsp;&nbsp;<mark>grid-column-gap</mark>: 10px;</code>
+      <code>}</code>
+    </pre>
+  </section>
+  <section class="slide" id="grid-column-gap">
+    <img src="pictures/grid-column-gap.png" alt="">
+    <style>
+      #grid-column-gap img {
+        padding-top: 30px;
+        width: 80%;
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+        left: 10%;
+      }
+    </style>
+  </section>
+  <section class="slide">
+    <h2>Отступ для строк</h2>
+    <pre>
+      <code>.grid {</code>
+      <code>&nbsp;&nbsp;<mark>grid-row-gap</mark>: 10px;</code>
+      <code>}</code>
+    </pre>
+  </section>
+  <section class="slide" id="grid-row-gap">
+    <img src="pictures/grid-row-gap.png" alt="">
+    <style>
+      #grid-row-gap img {
+        padding-top: 30px;
+        width: 80%;
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+        left: 10%;
+      }
+    </style>
+  </section>
+  <section class="slide">
+    <h2>Общий отступ</h2>
+    <pre>
+      <code>.grid {</code>
+      <code>&nbsp;&nbsp;<mark>grid-gap</mark>: 10px;</code>
+      <code>}</code>
+    </pre>
+  </section>
+  <section class="slide" id="grid-gap">
+    <img src="pictures/grid-gap.png" alt="">
+    <style>
+      #grid-gap img {
+        padding-top: 30px;
+        width: 80%;
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+        left: 10%;
+      }
+    </style>
+  </section>
+  <section class="slide" id="align-question">
+    <h2>Выравнивание</h2>
+    <style>
+      #align-question h2 {
+        transform: translateY(-50%);
+        position: absolute;
+        top: 50%;
+        left: 0;
+        font-size: 120px;
+        text-align: center;
+        width: 100%;
+      }
+    </style>
+  </section>
+  <section class="slide">
+    <h2>Пример выравнивания</h2>
+    <pre>
+      <code>.grid {</code>
+      <code>&nbsp;&nbsp;grid-auto-rows: <mark class="important">75px</mark>;</code>
+      <code>}</code>
+      <code>.box1 {</code>
+      <code>&nbsp;&nbsp;<mark>align-self</mark>: <mark class="important">center</mark>;</code>
+      <code>}</code>
+    </pre>
+  </section>
+  <section class="slide" id="align">
+    <img src="pictures/align.png" alt="">
+    <style>
+      #align img {
+        padding-top: 30px;
+        width: 80%;
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+        left: 10%;
+      }
+    </style>
+  </section>
+  <section class="slide" id="fill-question">
+    <h2>А как с "заполнением"?</h2>
+    <style>
+      #fill-question h2 {
+        transform: translateY(-50%);
+        position: absolute;
+        top: 50%;
+        left: 0;
+        font-size: 120px;
+        text-align: center;
+        width: 100%;
+      }
+    </style>
+  </section>
+  <section class="slide">
+    <h2>С "заполнением" все просто</h2>
+    <pre>
+      <code>.grid {</code>
+      <code>&nbsp;&nbsp;grid-template-columns: repeat(<mark class="important">auto-fill</mark>, 200px)</code>
+      <code>}</code>
+    </pre>
+  </section>
+  <section class="slide" id="fills">
+    <img src="pictures/fill.png" alt="">
+    <style>
+      #fills img {
+        padding-top: 30px;
+        width: 80%;
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+        left: 10%;
+      }
+    </style>
+  </section>
+  <section class="slide" id="grid-in-grid-question">
+    <h2>А грид в гриде, можно?</h2>
+    <style>
+      #grid-in-grid-question h2 {
+        transform: translateY(-50%);
+        position: absolute;
+        top: 50%;
+        left: 0;
+        font-size: 120px;
+        text-align: center;
+        width: 100%;
+      }
+    </style>
+  </section>
+  <section class="slide" id="can">
+    <h2>Можно</h2>
+    <style>
+      #can h2 {
+        transform: translateY(-50%);
+        position: absolute;
+        top: 50%;
+        left: 0;
+        font-size: 120px;
+        text-align: center;
+        width: 100%;
+      }
+    </style>
+  </section>
+  <section class="slide">
+    <h2>Собственно делаем грид в гриде</h2>
+    <p class="double">
+    <pre>
+        <code>&lt;div class="grid"&gt;</code>
+        <code>&nbsp;&nbsp;&lt;div class="<mark>box box1</mark>"&gt;One&lt;/div&gt;</code>
+        <code>&nbsp;&nbsp;&nbsp;&nbsp;&lt;div class="<mark>nested</mark>"&gt;Two&lt;/div&gt;</code>
+        <code>&nbsp;&nbsp;&nbsp;&nbsp;&lt;div class="<mark>nested</mark>"&gt;Three&lt;/div&gt;</code>
+        <code>&nbsp;&nbsp;&nbsp;&nbsp;&lt;div class="<mark>nested</mark>"&gt;Four&lt;/div&gt;</code>
+        <code>&nbsp;&nbsp;&lt;/div&gt;</code>
+        <code>&lt;/div&gt;</code>
+      </pre>
+    </p>
+  </section>
+  <section class="slide">
+    <pre>
+      <code>.grid {</code>
+      <code>&nbsp;&nbsp;...</code>
+      <code>&nbsp;&nbsp;grid-auto-rows: <mark class="important">minmax(50px, auto)</mark>;</code>
+      <code>}</code>
+      <code>.box1 {</code>
+      <code>&nbsp;&nbsp;grid-column-start: 1;</code>
+      <code>&nbsp;&nbsp;grid-column-end: 1;</code>
+      <code>}</code>
+    </pre>
+  </section>
+  <section class="slide" id="grid-in-grid">
+    <img src="pictures/grid-in-grid.png" alt="">
+    <style>
+      #grid-in-grid img {
+        padding-top: 30px;
+        width: 80%;
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+        left: 10%;
+      }
+    </style>
+  </section>
+  <section class="slide" id="areas">
+    <h2>Площади</h2>
+    <style>
+      #areas h2 {
+        transform: translateY(-50%);
+        position: absolute;
+        top: 50%;
+        left: 0;
+        font-size: 120px;
+        text-align: center;
+        width: 100%;
+      }
+    </style>
+  </section>
+  <section class="slide">
+    <h2>Даем имена площадям</h2>
+    <pre>
+      <code>.box1 {</code>
+      <code>&nbsp;&nbsp;grid-area: <mark class="important">box1</mark>;</code>
+      <code>}</code>
+      <code>.box2 {</code>
+      <code>&nbsp;&nbsp;grid-area: <mark class="important">box2</mark>;</code>
+      <code>}</code>
+    </pre>
+  </section>
+  <section class="slide">
+    <h2>Делаем разметку</h2>
+    <pre>
+      <code>.grid {</code>
+      <code>&nbsp;&nbsp;<mark>grid-template-areas:</mark>
+        <mark class="important">"box1 box2 box2";</mark>;</code>
+      <code>}</code>
+    </pre>
+  </section>
+  <section class="slide">
+    <h2>Можно объеденить с grid-template-columns</h2>
+    <pre>
+      <code>.grid {</code>
+      <code>&nbsp;&nbsp;<mark>grid</mark>:
+        <mark class="important">"box1 box2 box2"</mark>
+        <mark class="important">/ 1fr 1fr 1fr;</mark>;</code>
+      <code>}</code>
+    </pre>
+  </section>
+  <section class="slide" id="grid-template-areas">
+    <img src="pictures/grid-template-areas.png" alt="">
+    <style>
+      #grid-template-areas img {
+        padding-top: 30px;
+        width: 80%;
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+        left: 10%;
+      }
+    </style>
+  </section>
+  <section class="slide" id="rotate-grid">
+    <h2>Покрутим грид</h2>
+    <style>
+      #rotate-grid h2 {
+        transform: translateY(-50%);
+        position: absolute;
+        top: 50%;
+        left: 0;
+        font-size: 120px;
+        text-align: center;
+        width: 100%;
+      }
+    </style>
+  </section>
+  <section class="slide">
+    <pre>
+      <code>.grid {</code>
+      <code>&nbsp;&nbsp;<mark>grid-auto-flow</mark>: <mark class="important">column</mark></code>
+      <code>}</code>
+    </pre>
+  </section>
+  <section class="slide" id="grid-auto-flow">
+    <img src="pictures/grid-auto-flow.png" alt="">
+    <style>
+      #grid-auto-flow img {
+        padding-top: 30px;
+        width: 80%;
+        object-fit: scale-down;
+        height: 70%;
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+        left: 10%;
+      }
+    </style>
+  </section>
+  <section class="slide" id="finish">
+    <h2>Конец</h2>
+    <style>
+      #finish h2 {
+        transform: translateY(-50%);
+        position: absolute;
+        top: 50%;
+        left: 0;
+        font-size: 120px;
+        text-align: center;
+        width: 100%;
+      }
+    </style>
+  </section>
+	<div class="progress"></div>
+	<script src="shower/shower.min.js"></script>
+</body>
+</html>
