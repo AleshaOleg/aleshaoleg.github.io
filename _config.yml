@@ -1,5 +1,3 @@
 theme: jekyll-theme-minimal
-
-site:
-  title: Oleh Aloshkin
-  description: Front-end developer based in Vienna, Austria
+title: Oleh Aloshkin
+description: Front-end developer based in Vienna, Austria
