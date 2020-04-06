@@ -1,5 +1,3 @@
-Front-end developer  
-based in Vienna, Austria
 
 ## Experience
 
