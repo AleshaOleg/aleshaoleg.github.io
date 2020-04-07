@@ -1,4 +1,6 @@
-  
+---
+layout: default
+---
 ## Experience
 
 #### December, 2017 - Present: [grape.io](https://grape.io).
