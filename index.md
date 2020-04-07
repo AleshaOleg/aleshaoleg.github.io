@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Front-end developer
 ---
 ## Experience
 
