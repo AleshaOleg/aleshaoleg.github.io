@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Front-end developer
 ---
 ## Experience
