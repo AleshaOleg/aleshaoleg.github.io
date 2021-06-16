@@ -48,8 +48,5 @@ Snowboarding and photography -  these are a couple of my hobbies. Photos, you ca
 ## Languages
 English - proficient, Russian - native, Ukrainian - fluent.
 
-&nbsp;
-## Contact me
-📧 [olegaleshkin@gmail.com](mailto:olegaleshkin@gmail.com)
-
-📱 [+43 660 906 39 24](tel:+436609063924)
+---
+📍 Vienna, Austria 📧 [olegaleshkin@gmail.com](mailto:olegaleshkin@gmail.com) 📱 [+43 660 906 39 24](tel:+436609063924)
