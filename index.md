@@ -1,6 +1,16 @@
 ---
 title: Front-end developer
 ---
+## Technologies
+* [React](https://facebook.github.io/react/)/(Redux)[http://redux.js.org/docs/introduction/]
+* [Webpack](https://webpack.github.io/)/[Rollup](https://rollupjs.org/)
+* [JSS](https://cssinjs.org/)/[PostCSS](http://postcss.org/)/CSS
+* [Flow](https://flow.org/)/[Typescript](https://www.typescriptlang.org/)
+* [Electron](https://electronjs.org/)
+* [Storybook](https://storybook.js.org/)
+
+
+&nbsp;
 ## Experience
 
 #### December, 2017 - Present: [grape.io](https://grape.io).
