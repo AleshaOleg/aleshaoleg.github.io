@@ -9,7 +9,7 @@ title: Front-end developer
 * [Electron](https://electronjs.org/)
 * [Storybook](https://storybook.js.org/)
 
-&nbsp;
+
 ## Experience
 
 #### December, 2017 - Present: [grape.io](https://grape.io).
@@ -23,7 +23,7 @@ Worked for [Labirint](http://labirint.ru/) and [Working station](http://coworkst
 Projects: [icecat.biz](http://icecat.biz/) and [centralpoint.nl](http://centralpoint.nl/).
 #### July, 2015 - September, 2015: [biz-xray.com](https://www.linkedin.com/company/biz-xray/about/).
 
-&nbsp;
+
 ## Open-source
 
 #### Created
@@ -36,17 +36,17 @@ Projects: [icecat.biz](http://icecat.biz/) and [centralpoint.nl](http://centralp
 - [browserslist](https://github.com/ai/browserslist). Get browsers versions that match given criteria like in Autoprefixer.
 - [css-vendor](https://github.com/cssinjs/css-vendor). CSS vendor prefix detection and property feature testing.
 
-&nbsp;
+
 ## Personality
 Firstly I have an aesthetic taste, thanks to this I can develop beautiful interfaces. And the second - I'm a perfectionist, it helps me do everything with pinpoint accuracy. Besides, I'm flexible and an excellent team player, with these abilities I’m able to resolve tasks of varying complexity.
 
-&nbsp;
+
 ## Hobbies
 Snowboarding and photography -  these are a couple of my hobbies. Photos, you can check here: 500px.com/AleshaOleg.
 
-&nbsp;
+
 ## Languages
 English - proficient, Russian - native, Ukrainian - fluent.
 
 ---
-📍 Vienna, Austria   📧 [olegaleshkin@gmail.com](mailto:olegaleshkin@gmail.com)   📱 [+43 660 906 39 24](tel:+436609063924)
+📍 Vienna, Austria&nbsp;&nbsp;&nbsp;📧 [olegaleshkin@gmail.com](mailto:olegaleshkin@gmail.com)&nbsp;&nbsp;&nbsp;📱 [+43 660 906 39 24](tel:+436609063924)
