@@ -37,9 +37,16 @@ Projects: [icecat.biz](http://icecat.biz/) and [centralpoint.nl](http://centralp
 - [css-vendor](https://github.com/cssinjs/css-vendor). CSS vendor prefix detection and property feature testing.
 
 &nbsp;
-## Other
-Also, I'm a photographer. Examples of my work, you can see by visit this [link](https://500px.com/AleshaOleg).
-[Here](https://www.goodreads.com/user/show/44506883-oleh-aloshkin) you can find books, which I read.
+## Personality
+Firstly I have an aesthetic taste, thanks to this I can develop beautiful interfaces. And the second - I'm a perfectionist, it helps me do everything with pinpoint accuracy. Besides, I'm flexible and an excellent team player, with these abilities I’m able to resolve tasks of varying complexity.
+
+&nbsp;
+## Hobbies
+Snowboarding and photography -  these are a couple of my hobbies. Photos, you can check here: 500px.com/AleshaOleg.
+
+&nbsp;
+## Languages
+English - proficient, Russian - native, Ukrainian - fluent.
 
 &nbsp;
 ## Contact me
