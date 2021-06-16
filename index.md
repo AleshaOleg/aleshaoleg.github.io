@@ -55,7 +55,7 @@ Provided support for icecat.biz and developing centralpoint.nl
 #### Jul 2015 - Sep 2016
 @ Biz-Xray
 
-Intership
+Internship
 
 &nbsp;
 ## Open-source
