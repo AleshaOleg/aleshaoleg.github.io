@@ -15,6 +15,7 @@ title: Frontend Developer
 
 #### The National Technical University of Ukraine "Igor Sikorsky Kyiv Polytechnic Institute"
 ###### 2013 - 2017
+&nbsp;
 A Bachelor in Software Engineering
 
 &nbsp;
@@ -23,31 +24,37 @@ A Bachelor in Software Engineering
 #### Frontend Developer
 ###### Dec 2017 - ongoing
 @ [grape.io](https://grape.io)
+&nbsp;
 Implementing new features/bug fixes for chat web-app. Developed from scratch design system and desktop app based on Electron
 
 #### Frontend Developer
 ###### Jul 2017 - Dec 2017
 @ [1+1 media](https://media.1plus1.ua/)
+&nbsp;
 Smart TV app for [1plus1.video](https://1plus1.video/)
 
 #### Frontend Developer
 ###### Jan 2017 - Mar 2017
 @ [Web-Pal](http://web-pal.com/)
+&nbsp;
 Development of [telepado.com](https://telepado.com)
 
 #### Frontend Developer
 ###### Sep 2016 - Dec 2016
 @ [codecode.ru](http://codecode.ru/)
+&nbsp;
 Worked for [Labirint](http://labirint.ru/) and [Working station](http://coworkstation.ru/)
 
 #### Junior Frontend Developer
 ###### Dec 2015 - Nov 2016
 @ [bintime.com](http://bintime.com/)
+&nbsp;
 Provided support for icecat.biz and developing centralpoint.nl
 
 #### Trainee Frontend Developer
 ###### Jul 2015 - Sep 2016
 @ Biz-Xray
+&nbsp;
 Intership
 
 &nbsp;
