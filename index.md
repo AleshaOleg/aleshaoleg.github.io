@@ -10,6 +10,11 @@ title: Front-end developer
 * [Electron](https://electronjs.org/)
 * [Storybook](https://storybook.js.org/)
 
+## Education
+
+#### 2013 - 2017. The National Technical University of Ukraine "Igor Sikorsky Kyiv Polytechnic Institute".
+A Bachelor in Software Engineering, 
+
 &nbsp;
 ## Experience
 
