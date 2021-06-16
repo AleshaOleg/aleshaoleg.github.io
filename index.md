@@ -55,7 +55,7 @@ Provided support for icecat.biz and developing centralpoint.nl
 #### Jul 2015 - Sep 2016
 @ Biz-Xray
 
-Worked on normalizing statistics data. Helped with markup of HTML pages
+Worked on normalizing statistics data. Helped with a markup of HTML pages
 
 &nbsp;
 ## Open-source
