@@ -50,4 +50,5 @@ English - proficient, Russian - native, Ukrainian - fluent.
 
 &nbsp;
 ## Contact me
-To [hire](https://www.upwork.com/freelancers/~016cb6543c31217bc3) me, please drop email to [olegaleshkin@gmail.com](mailto:olegaleshkin@gmail.com).
+📧 [olegaleshkin@gmail.m](mailto:olegaleshkin@gmail.com).
+📱 [+43 660 906 39 24](tel:+436609063924)
