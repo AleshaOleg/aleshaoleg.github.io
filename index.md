@@ -50,5 +50,5 @@ English - proficient, Russian - native, Ukrainian - fluent.
 
 &nbsp;
 ## Contact me
-📧 [olegaleshkin@gmail.m](mailto:olegaleshkin@gmail.com).
+📧 [olegaleshkin@gmail.com](mailto:olegaleshkin@gmail.com).
 📱 [+43 660 906 39 24](tel:+436609063924)
