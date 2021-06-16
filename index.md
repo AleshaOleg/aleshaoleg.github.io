@@ -18,34 +18,28 @@ title: Frontend Developer
 &nbsp;
 ## Experience
 
-### Frontend Developer #### Dec 2017 - ongoing
-@ [grape.io](https://grape.io)
-
+### Frontend Developer @ [grape.io](https://grape.io)
+##### Dec 2017 - ongoing
 Implementing new features/bug fixes for chat web-app. Developed from scratch design system and desktop app based on Electron
 
-### Frontend Developer #### Jul 2017 - Dec 2017
-@ [1+1 media](https://media.1plus1.ua/)
-
+### Frontend Developer @ [1+1 media](https://media.1plus1.ua/)
+##### Jul 2017 - Dec 2017
 Smart TV app for [1plus1.video](https://1plus1.video/)
 
-### Frontend Developer #### Jan 2017 - Mar 2017
-@ [Web-Pal](http://web-pal.com/)
-
+### Frontend Developer @ [Web-Pal](http://web-pal.com/)
+##### Jan 2017 - Mar 2017
 Development of [telepado.com](https://telepado.com)
 
-### Frontend Developer #### Sep 2016 - Dec 2016
-@ [codecode.ru](http://codecode.ru/)
-
+### Frontend Developer @ [codecode.ru](http://codecode.ru/)
+##### Sep 2016 - Dec 2016
 Worked for [Labirint](http://labirint.ru/) and [Working station](http://coworkstation.ru/)
 
-### Junior Frontend Developer #### Dec 2015 - Nov 2016
-@ [bintime.com](http://bintime.com/)
-
+### Junior Frontend Developer @ [bintime.com](http://bintime.com/)
+##### Dec 2015 - Nov 2016
 Provided support for icecat.biz and developing centralpoint.nl
 
-### Trainee Frontend Developer #### Jul 2015 - Sep 2016
-@ Biz-Xray
-
+### Trainee Frontend Developer @ Biz-Xray
+##### Jul 2015 - Sep 2016
 Worked on normalizing statistics data. Helped with a markup of HTML pages
 
 &nbsp;
