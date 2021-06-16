@@ -21,38 +21,38 @@ A Bachelor in Software Engineering
 &nbsp;
 ## Experience
 
-#### Frontend Developer
-###### Dec 2017 - ongoing
+### Frontend Developer
+#### Dec 2017 - ongoing
 @ [grape.io](https://grape.io)
 
 Implementing new features/bug fixes for chat web-app. Developed from scratch design system and desktop app based on Electron
 
-#### Frontend Developer
-###### Jul 2017 - Dec 2017
+### Frontend Developer
+#### Jul 2017 - Dec 2017
 @ [1+1 media](https://media.1plus1.ua/)
 
 Smart TV app for [1plus1.video](https://1plus1.video/)
 
-#### Frontend Developer
-###### Jan 2017 - Mar 2017
+### Frontend Developer
+#### Jan 2017 - Mar 2017
 @ [Web-Pal](http://web-pal.com/)
 
 Development of [telepado.com](https://telepado.com)
 
-#### Frontend Developer
-###### Sep 2016 - Dec 2016
+### Frontend Developer
+#### Sep 2016 - Dec 2016
 @ [codecode.ru](http://codecode.ru/)
 
 Worked for [Labirint](http://labirint.ru/) and [Working station](http://coworkstation.ru/)
 
-#### Junior Frontend Developer
-###### Dec 2015 - Nov 2016
+### Junior Frontend Developer
+#### Dec 2015 - Nov 2016
 @ [bintime.com](http://bintime.com/)
 
 Provided support for icecat.biz and developing centralpoint.nl
 
-#### Trainee Frontend Developer
-###### Jul 2015 - Sep 2016
+### Trainee Frontend Developer
+#### Jul 2015 - Sep 2016
 @ Biz-Xray
 
 Intership
