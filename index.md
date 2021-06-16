@@ -21,27 +21,27 @@ Bachelor in Software Engineering
 ## Experience
 
 ### Frontend Developer @ [grape.io](https://grape.io)
-##### Dec 2017 - ongoing
+##### Dec 2017 - ongoing. *Vienna, Austria*
 Implementing new features/bug fixes for chat web-app. Developed from scratch design system and desktop app based on Electron
 
 ### Frontend Developer @ [1+1 media](https://media.1plus1.ua/)
-##### Jul 2017 - Dec 2017
+##### Jul 2017 - Dec 2017. *Kyiv, Ukraine*
 Smart TV app for [1plus1.video](https://1plus1.video/)
 
 ### Frontend Developer @ [Web-Pal](http://web-pal.com/)
-##### Jan 2017 - Mar 2017
+##### Jan 2017 - Mar 2017. *Kyiv, Ukraine*
 Development of [telepado.com](https://telepado.com)
 
 ### Frontend Developer @ [codecode.ru](http://codecode.ru/)
-##### Sep 2016 - Dec 2016
+##### Sep 2016 - Dec 2016. *Kyiv, Ukraine*
 Worked for [Labirint](http://labirint.ru/) and [Working station](http://coworkstation.ru/)
 
 ### Junior Frontend Developer @ [bintime.com](http://bintime.com/)
-##### Dec 2015 - Nov 2016
+##### Dec 2015 - Nov 2016. *Kyiv, Ukraine*
 Provided support for icecat.biz and developing centralpoint.nl
 
 ### Trainee Frontend Developer @ Biz-Xray
-##### Jul 2015 - Sep 2016
+##### Jul 2015 - Sep 2016. *Kyiv, Ukraine*
 Worked on normalizing statistics data. Helped with a markup of HTML pages
 
 &nbsp;
