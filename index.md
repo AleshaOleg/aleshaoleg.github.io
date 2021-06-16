@@ -9,7 +9,6 @@ title: Front-end developer
 * [Electron](https://electronjs.org/)
 * [Storybook](https://storybook.js.org/)
 
-
 &nbsp;
 ## Experience
 
@@ -24,7 +23,6 @@ Worked for [Labirint](http://labirint.ru/) and [Working station](http://coworkst
 Projects: [icecat.biz](http://icecat.biz/) and [centralpoint.nl](http://centralpoint.nl/).
 #### July, 2015 - September, 2015: [biz-xray.com](https://www.linkedin.com/company/biz-xray/about/).
 
-
 &nbsp;
 ## Open-source
 
@@ -38,12 +36,10 @@ Projects: [icecat.biz](http://icecat.biz/) and [centralpoint.nl](http://centralp
 - [browserslist](https://github.com/ai/browserslist). Get browsers versions that match given criteria like in Autoprefixer.
 - [css-vendor](https://github.com/cssinjs/css-vendor). CSS vendor prefix detection and property feature testing.
 
-
 &nbsp;
 ## Other
 Also, I'm a photographer. Examples of my work, you can see by visit this [link](https://500px.com/AleshaOleg).
 [Here](https://www.goodreads.com/user/show/44506883-oleh-aloshkin) you can find books, which I read.
-
 
 &nbsp;
 ## Contact me
