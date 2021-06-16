@@ -51,4 +51,4 @@ English - proficient, Russian - native, Ukrainian - fluent.
 
 ---
 
-📍 Vienna, Austria&nbsp;&nbsp;&nbsp;📧 [olegaleshkin@gmail.com](mailto:olegaleshkin@gmail.com)&nbsp;&nbsp;&nbsp;📱 [+43 660 906 39 24](tel:+436609063924)
+📍 Vienna, Austria&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📧 [olegaleshkin@gmail.com](mailto:olegaleshkin@gmail.com)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📱 [+43 660 906 39 24](tel:+436609063924)
