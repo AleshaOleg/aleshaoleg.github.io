@@ -63,7 +63,7 @@ Firstly I have an aesthetic taste, thanks to this I can develop beautiful interf
 
 &nbsp;
 ## Hobbies
-Snowboarding and photography -  these are a couple of my hobbies. Photos, you can check here: 500px.com/AleshaOleg.
+Snowboarding and photography -  these are a couple of my hobbies. Photos, you can check here: [500px.com/AleshaOleg](https://500px.com/p/aleshaoleg?).
 
 &nbsp;
 ## Languages
