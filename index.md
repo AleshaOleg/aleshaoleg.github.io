@@ -40,7 +40,7 @@ Projects: [icecat.biz](http://icecat.biz/) and [centralpoint.nl](http://centralp
 ## Personality
 Firstly I have an aesthetic taste, thanks to this I can develop beautiful interfaces. And the second - I'm a perfectionist, it helps me do everything with pinpoint accuracy. Besides, I'm flexible and an excellent team player, with these abilities I’m able to resolve tasks of varying complexity.
 
-
+&nbsp;
 ## Hobbies
 Snowboarding and photography -  these are a couple of my hobbies. Photos, you can check here: 500px.com/AleshaOleg.
 
