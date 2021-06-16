@@ -13,7 +13,9 @@ title: Frontend Developer
 &nbsp;
 ## Education
 
-| **The National Technical University of Ukraine<br>"Igor Sikorsky Kyiv Polytechnic Institute"**<br>A Bachelor in Software Engineering | 2013 - 2017 |
+### The National Technical University of Ukraine "Igor Sikorsky Kyiv Polytechnic Institute"
+##### 2013 - 2017
+Bachelor in Software Engineering 
 
 &nbsp;
 ## Experience
