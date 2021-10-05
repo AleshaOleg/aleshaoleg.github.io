@@ -38,7 +38,7 @@ Provided support for icecat.biz and developing centralpoint.nl
 
 ### Trainee Frontend Developer @ Biz-Xray
 ##### Jul 2015 - Sep 2016. *Kyiv, Ukraine*
-Worked on normalizing statistics data. Helped with a markup of HTML pages
+Worked on normalizing statistics data. Helped with the markup of HTML pages
 
 &nbsp;
 ## Education
