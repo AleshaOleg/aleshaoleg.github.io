@@ -15,27 +15,27 @@ title: Frontend Developer
 
 ### Frontend Developer @ [planradar.com](http://planradar.com/)
 ##### Aug 2021 - ongoing. *Vienna, Austria*
-
+&nbsp;
 ### Frontend Developer @ [grape.io](https://grape.io)
 ##### Dec 2017 - Jul 2021. *Vienna, Austria*
 Implementing new features/bug fixes for chat web-app. Developed from scratch design system and desktop app based on Electron
-
+&nbsp;
 ### Frontend Developer @ [1+1 media](https://media.1plus1.ua/)
 ##### Jul 2017 - Dec 2017. *Kyiv, Ukraine*
 Smart TV app for [1plus1.video](https://1plus1.video/)
-
+&nbsp;
 ### Frontend Developer @ [Web-Pal](http://web-pal.com/)
 ##### Jan 2017 - Mar 2017. *Kyiv, Ukraine*
 Development of [telepado.com](https://telepado.com)
-
+&nbsp;
 ### Frontend Developer @ [codecode.ru](http://codecode.ru/)
 ##### Sep 2016 - Dec 2016. *Kyiv, Ukraine*
 Worked for [Labirint](http://labirint.ru/) and [Working station](http://coworkstation.ru/)
-
+&nbsp;
 ### Junior Frontend Developer @ [bintime.com](http://bintime.com/)
 ##### Dec 2015 - Nov 2016. *Kyiv, Ukraine*
 Provided support for icecat.biz and developing centralpoint.nl
-
+&nbsp;
 ### Trainee Frontend Developer @ Biz-Xray
 ##### Jul 2015 - Sep 2016. *Kyiv, Ukraine*
 Worked on normalizing statistics data. Helped with the markup of HTML pages
