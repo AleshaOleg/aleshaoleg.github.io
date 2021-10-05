@@ -11,17 +11,13 @@ title: Frontend Developer
 * [Storybook](https://storybook.js.org/)
 
 &nbsp;
-## Education
-
-### The National Technical University of Ukraine "Igor Sikorsky Kyiv Polytechnic Institute"
-##### 2013 - 2017. *Kyiv, Ukraine*
-Bachelor in Software Engineering 
-
-&nbsp;
 ## Experience
 
+### Frontend Developer @ [planradar.com](http://planradar.com/)
+##### Aug 2021 - ongoing. *Vienna, Austria*
+
 ### Frontend Developer @ [grape.io](https://grape.io)
-##### Dec 2017 - ongoing. *Vienna, Austria*
+##### Dec 2017 - Jul 2021. *Vienna, Austria*
 Implementing new features/bug fixes for chat web-app. Developed from scratch design system and desktop app based on Electron
 
 ### Frontend Developer @ [1+1 media](https://media.1plus1.ua/)
@@ -43,6 +39,13 @@ Provided support for icecat.biz and developing centralpoint.nl
 ### Trainee Frontend Developer @ Biz-Xray
 ##### Jul 2015 - Sep 2016. *Kyiv, Ukraine*
 Worked on normalizing statistics data. Helped with a markup of HTML pages
+
+&nbsp;
+## Education
+
+### The National Technical University of Ukraine "Igor Sikorsky Kyiv Polytechnic Institute"
+##### 2013 - 2017. *Kyiv, Ukraine*
+Bachelor in Software Engineering 
 
 &nbsp;
 ## Open-source
