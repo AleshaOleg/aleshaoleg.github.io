@@ -15,13 +15,13 @@ title: Frontend Developer
 
 ### Frontend Developer @ [planradar.com](http://planradar.com/)
 ##### Aug 2021 - ongoing. *Vienna, Austria*
-- Contributing to re-design process
+- Contributing to redesign process
 
 ### Frontend Developer @ [grape.io](https://grape.io)
 ##### Dec 2017 - Jul 2021. *Vienna, Austria*
 - Implementing new features/bug fixes for chat [web app](https://github.com/ubergrape/grape-web-client)
 - Developed [design system](https://github.com/ubergrape/grape-ds)
-- Re-wrote [desktop app](https://github.com/ubergrape/grape-electron) based on Electron
+- Re-implemented [desktop app](https://github.com/ubergrape/grape-electron) based on Electron
 - OSS contributions
 
 ### Frontend Developer @ [1+1 media](https://media.1plus1.ua/)
