@@ -15,30 +15,37 @@ title: Frontend Developer
 
 ### Frontend Developer @ [planradar.com](http://planradar.com/)
 ##### Aug 2021 - ongoing. *Vienna, Austria*
+- Contributing to re-design process
 
 ### Frontend Developer @ [grape.io](https://grape.io)
 ##### Dec 2017 - Jul 2021. *Vienna, Austria*
-Implementing new features/bug fixes for chat web-app. Developed from scratch design system and desktop app based on Electron
+- Implementing new features/bug fixes for chat [web app](https://github.com/ubergrape/grape-web-client)
+- Developed [design system](https://github.com/ubergrape/grape-ds)
+- Re-wrote [desktop app](https://github.com/ubergrape/grape-electron) based on Electron
+- OSS contributions
 
 ### Frontend Developer @ [1+1 media](https://media.1plus1.ua/)
 ##### Jul 2017 - Dec 2017. *Kyiv, Ukraine*
-Smart TV app for [1plus1.video](https://1plus1.video/)
+- Developed Smart TV apps (Tizen and webOS) for [1plus1.video](https://1plus1.video/)
 
-### Frontend Developer @ [Web-Pal](http://web-pal.com/)
+### Frontend Developer @ [Web-Pal](https://web-pal.com/)
 ##### Jan 2017 - Mar 2017. *Kyiv, Ukraine*
-Development of [telepado.com](https://telepado.com)
+- Development of [telepado.com](https://telepado.com)
 
-### Frontend Developer @ [codecode.ru](http://codecode.ru/)
+### Frontend Developer @ [codecode.ru](https://codecode.ru/)
 ##### Sep 2016 - Dec 2016. *Kyiv, Ukraine*
-Worked for [Labirint](http://labirint.ru/) and [Working station](http://coworkstation.ru/)
+- Email templates of [labirint.ru](https://labirint.ru/)
+- Markup of [coworkstation.ru](https://coworkstation.ru/) website
 
-### Junior Frontend Developer @ [bintime.com](http://bintime.com/)
+### Junior Frontend Developer @ [bintime.com](https://bintime.com)
 ##### Dec 2015 - Nov 2016. *Kyiv, Ukraine*
-Provided support for icecat.biz and developing centralpoint.nl
+- Provided support and bug fixing of [icecat.biz](http://icecat.biz)
+- Development of [centralpoint.nl](http://centralpoint.nl)
 
 ### Trainee Frontend Developer @ Biz-Xray
 ##### Jul 2015 - Sep 2016. *Kyiv, Ukraine*
-Worked on normalizing statistics data. Helped with the markup of HTML pages
+- Worked on normalizing statistics data
+- Helped with the markup of HTML pages
 
 &nbsp;
 ## Education
