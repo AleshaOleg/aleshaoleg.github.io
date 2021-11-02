@@ -58,7 +58,7 @@ Bachelor in Software Engineering
 ## Open-source
 
 #### Created
-- [Holy Grail Markup](https://github.com/AleshaOleg/holy-grail-markup) “Hello world” markup using different CSS methodologies: OOCSS, SMACSS, Atomic & Organic, BEM and CSS Modules.
+- [Holy Grail Markup](https://github.com/AleshaOleg/holy-grail-markup) “Hello world” markup using different CSS methodologies: OOCSS, SMACSS, Atomic & Organic, BEM, and CSS Modules.
 - [postcss-sass](https://github.com/AleshaOleg/postcss-sass) A Sass parser for PostCSS, using gonzales-pe.
 
 #### Contributed to
