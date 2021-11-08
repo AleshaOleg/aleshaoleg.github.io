@@ -63,9 +63,9 @@ Bachelor in Software Engineering
 
 #### Contributed to
 - [initium](https://github.com/straykov/initium). Gulp based skeleton, for quick start your markup.
-- [YoptaScript](https://github.com/samgozman/YoptaScript). Скриптовый язык программирования для гопников и реальных пацанов.
 - [browserslist](https://github.com/ai/browserslist). Get browsers versions that match given criteria like in Autoprefixer.
 - [css-vendor](https://github.com/cssinjs/css-vendor). CSS vendor prefix detection and property feature testing.
+- [YoptaScript](https://github.com/samgozman/YoptaScript). Скриптовый язык программирования для гопников и реальных пацанов.
 
 &nbsp;
 ## Personality
