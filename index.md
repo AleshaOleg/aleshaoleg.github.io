@@ -13,8 +13,11 @@ title: Frontend Developer
 &nbsp;
 ## Experience
 
-### Frontend Developer @ [planradar.com](http://planradar.com/)
-##### Aug 2021 - ongoing. *Vienna, Austria*
+### Senior Frontend Developer @ [deepopinion.ai](https://deepopinion.ai/)
+##### Feb 2022 - ongoing. *Vienna, Austria*
+
+### Frontend Developer @ [planradar.com](https://planradar.com/)
+##### Aug 2021 - Jan 2022. *Vienna, Austria*
 - Contributing to redesign process
 
 ### Frontend Developer @ [grape.io](https://grape.io)
