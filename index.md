@@ -79,7 +79,7 @@ Firstly I have an aesthetic taste, thanks to this I can develop beautiful interf
 
 &nbsp;
 ## Hobbies
-Snowboarding and photography -  these are a couple of my hobbies. Photos, you can check here: [500px.com/AleshaOleg](https://500px.com/p/aleshaoleg?).
+Running, snowboarding and photography -  these are a three of my hobbies. Join me on [Strava](https://www.strava.com/athletes/33419962). Photos, you can check here: [500px.com/AleshaOleg](https://500px.com/p/aleshaoleg?).
 
 &nbsp;
 ## Languages
