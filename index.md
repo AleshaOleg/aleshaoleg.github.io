@@ -6,7 +6,7 @@ title: Frontend Developer
 * [Redux](http://redux.js.org/docs/introduction/)
 * [Webpack](https://webpack.github.io/)/[Rollup](https://rollupjs.org/)
 * [JSS](https://cssinjs.org/)/[PostCSS](http://postcss.org/)/CSS
-* [Flow](https://flow.org/)/[Typescript](https://www.typescriptlang.org/)
+* [Typescript](https://www.typescriptlang.org/)/[Flow](https://flow.org/)
 * [Electron](https://electronjs.org/)
 * [Storybook](https://storybook.js.org/)
 
@@ -14,15 +14,18 @@ title: Frontend Developer
 ## Experience
 
 ### Senior Frontend Developer @ [deepopinion.ai](https://deepopinion.ai/)
-##### Feb 2022 - ongoing. *Vienna, Austria*
+##### Feb 2022 - ongoing. *Remote*
+- Developed automation flow with [jsPlumb](https://jsplumbtoolkit.com/)
+- Managing and developing design process from scratch
+- Developing new features/doing bugfixes
 
 ### Frontend Developer @ [planradar.com](https://planradar.com/)
 ##### Aug 2021 - Jan 2022. *Vienna, Austria*
-- Contributing to redesign process
+- Contributing to the redesign process
 
 ### Frontend Developer @ [grape.io](https://grape.io)
 ##### Dec 2017 - Jul 2021. *Vienna, Austria*
-- Implementing new features/bug fixes for chat [web app](https://github.com/ubergrape/grape-web-client)
+- Implementing new features/doing bugfixes for the chat [web app](https://github.com/ubergrape/grape-web-client)
 - Developed [design system](https://github.com/ubergrape/grape-ds)
 - Re-implemented [desktop app](https://github.com/ubergrape/grape-electron) based on Electron
 - OSS contributions
@@ -43,7 +46,7 @@ title: Frontend Developer
 ### Junior Frontend Developer @ [bintime.com](https://bintime.com)
 ##### Dec 2015 - Nov 2016. *Kyiv, Ukraine*
 - Provided support and bug fixing of [icecat.biz](http://icecat.biz)
-- Development of [centralpoint.nl](http://centralpoint.nl)
+- Development of [Dustin]([http://centralpoint.nl](https://www.dustin.nl/))
 
 ### Trainee Frontend Developer @ Biz-Xray
 ##### Jul 2015 - Sep 2015. *Kyiv, Ukraine*
@@ -55,7 +58,7 @@ title: Frontend Developer
 
 ### The National Technical University of Ukraine "Igor Sikorsky Kyiv Polytechnic Institute"
 ##### 2013 - 2017. *Kyiv, Ukraine*
-Bachelor in Software Engineering 
+A bachelor’s degree in Software Engineering
 
 &nbsp;
 ## Open-source
@@ -65,8 +68,8 @@ Bachelor in Software Engineering
 - [postcss-sass](https://github.com/AleshaOleg/postcss-sass) A Sass parser for PostCSS, using gonzales-pe.
 
 #### Contributed to
-- [initium](https://github.com/straykov/initium). Gulp based skeleton, for quick start your markup.
-- [browserslist](https://github.com/ai/browserslist). Get browsers versions that match given criteria like in Autoprefixer.
+- [initium](https://github.com/straykov/initium). Gulp-based skeleton, for a quick start to your projects.
+- [browserslist](https://github.com/ai/browserslist). Get browser versions that match the given criteria like in Autoprefixer.
 - [css-vendor](https://github.com/cssinjs/css-vendor). CSS vendor prefix detection and property feature testing.
 - [YoptaScript](https://github.com/samgozman/YoptaScript). Скриптовый язык программирования для гопников и реальных пацанов.
 
