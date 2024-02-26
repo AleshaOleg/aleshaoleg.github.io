@@ -83,7 +83,7 @@ Running, snowboarding and photography -  these are a three of my hobbies. Join m
 
 &nbsp;
 ## Languages
-English - proficient, Russian - native, Ukrainian - fluent.
+English - proficient, Russian - fluent, Ukrainian - native.
 
 ---
 
