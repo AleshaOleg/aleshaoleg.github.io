@@ -2,11 +2,12 @@
 title: Frontend Developer
 ---
 ## Technologies
-* [React](https://facebook.github.io/react/)
-* [Redux](http://redux.js.org/docs/introduction/)
-* [Webpack](https://webpack.github.io/)/[Rollup](https://rollupjs.org/)
-* [JSS](https://cssinjs.org/)/[PostCSS](http://postcss.org/)/CSS
+* [React](https://facebook.github.io/react/)/[Redux](http://redux.js.org/docs/introduction/)/[React Query](https://tanstack.com/query/latest)
+* [Webpack](https://webpack.github.io/)/[Vite](https://vite.dev)/[Rollup](https://rollupjs.org/)
+* [Tailwind](https://tailwindcss.com)/[Emotion](https://emotion.sh/docs/introduction)/[JSS](https://cssinjs.org/)/[PostCSS](http://postcss.org/)/CSS
 * [Typescript](https://www.typescriptlang.org/)/[Flow](https://flow.org/)
+* [Jest](https://jestjs.io)/[Playwright](https://playwright.dev)
+* [Next.js](https://nextjs.org)
 * [Electron](https://electronjs.org/)
 * [Storybook](https://storybook.js.org/)
 
