@@ -17,7 +17,7 @@ title: Frontend Developer
 ### Senior Frontend Developer @ [deepopinion.ai](https://deepopinion.ai/)
 ##### Feb 2022 - ongoing. *Remote*
 - Developed automation flow with [jsPlumb](https://jsplumbtoolkit.com/)
-- Managed developing/developed of design system from scratch
+- Managed developing/developed design system from scratch
 - Working on customer success, helping to resolve various issues
 - Handling incoming feature/bug requests
 - Developing new features
